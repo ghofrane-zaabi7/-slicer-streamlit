@@ -1,0 +1,10 @@
+{
+  "name": "Profil HDPE - filament",
+  "layer_height": 0.3,
+  "infill_spacing": 12.0,
+  "nozzle_temp": 240,
+  "bed_temp": 100,
+  "print_speed": 1500,
+  "travel_speed": 2500,
+  "extrusion_per_mm": 0.06
+}
